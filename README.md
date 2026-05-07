@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am the co-founder and CTO of [OpenC3](https://openc3.com). I helped create both the [Open Source](https://github.com/OpenC3/cosmos) and [COSMOS Enterprise](https://github.com/OpenC3/cosmos-enterprise) command and control software suite.
+I am the co-founder and CTO of [OpenC3](https://openc3.com). I helped create both the [COSMOS Core](https://github.com/OpenC3/cosmos) and [COSMOS Enterprise](https://github.com/OpenC3/cosmos-enterprise) command and control software suite.
 
 
 ## 🌐 Socials:
